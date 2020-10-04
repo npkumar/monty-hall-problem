@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Express](https://expressjs.com/) is used for the backend.
 
-Demo app can be found at [Monty Hall Problem](mhpnpk.herokuapp.com/)
+Demo app can be found at [Monty Hall Problem](https://mhpnpk.herokuapp.com/)
 
 Demo app server can be found at [Monty Hall Problem Server](https://mhpnpk-server.herokuapp.com) CORS has been enabled on server for convenience.
 
