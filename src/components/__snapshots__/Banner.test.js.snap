@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Banner renders 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiTypography-root makeStyles-root-1 MuiTypography-body1"
+  >
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root MuiSvgIcon-colorSecondary MuiSvgIcon-fontSizeLarge"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M11 11h-1v2h2v-1l9.73 9.73L20.46 23 14 16.54V21H3v-2h2V7.54l-4-4 1.27-1.27L11 11zm3 .49L5.51 3H14v1h5v12.49l-2-2V6h-3v5.49z"
+      />
+    </svg>
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root MuiSvgIcon-fontSizeLarge"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M14 6v15H3v-2h2V3h9v1h5v15h2v2h-4V6h-3zm-4 5v2h2v-2h-2z"
+      />
+    </svg>
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root MuiSvgIcon-colorSecondary MuiSvgIcon-fontSizeLarge"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M11 11h-1v2h2v-1l9.73 9.73L20.46 23 14 16.54V21H3v-2h2V7.54l-4-4 1.27-1.27L11 11zm3 .49L5.51 3H14v1h5v12.49l-2-2V6h-3v5.49z"
+      />
+    </svg>
+  </div>
+</DocumentFragment>
+`;

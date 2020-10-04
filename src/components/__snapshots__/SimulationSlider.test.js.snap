@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SimulationSlider renders 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-root-1"
+  >
+    <div
+      class="MuiTypography-root makeStyles-banner-2 MuiTypography-body1"
+    >
+      <div
+        class="makeStyles-label-3"
+      >
+        <div
+          class="makeStyles-labelText-4"
+          data-testid="simulations"
+        >
+          4000
+        </div>
+        <div
+          class="makeStyles-subtitle-5"
+        >
+          #simulations
+        </div>
+      </div>
+    </div>
+    <span
+      class="MuiSlider-root WithStyles(ForwardRef(Slider))-root-6 MuiSlider-colorPrimary"
+      data-testid="slider"
+    >
+      <span
+        class="MuiSlider-rail WithStyles(ForwardRef(Slider))-rail-11"
+      />
+      <span
+        class="MuiSlider-track WithStyles(ForwardRef(Slider))-track-10"
+        style="left: 0%; width: 0.0399900039990004%;"
+      />
+      <input
+        type="hidden"
+        value="4000"
+      />
+      <span
+        aria-label="pretto slider"
+        aria-orientation="horizontal"
+        aria-valuemax="10000000"
+        aria-valuemin="1"
+        aria-valuenow="4000"
+        class="MuiSlider-thumb WithStyles(ForwardRef(Slider))-thumb-7 MuiSlider-thumbColorPrimary"
+        data-index="0"
+        role="slider"
+        style="left: 0.0399900039990004%;"
+        tabindex="0"
+      />
+    </span>
+  </div>
+</DocumentFragment>
+`;
